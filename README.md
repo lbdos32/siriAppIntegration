@@ -1,0 +1,1 @@
+A demo app I have made showing how to use Siri to launch an app intent. The original appIntent was for making a movie list with ratings but I adapted it for use in SITA for my Dad for flight crew in airports.
